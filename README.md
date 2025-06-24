@@ -54,9 +54,7 @@ lib_deps =
 
 
 <details> <summary>📋 Click to Expand Markdown Snippet</summary>
-markdown
-Copy
-Edit
+
 ## 🛠️ How to Build
 
 This section walks you through assembling the hardware, uploading the code, and getting the ESP32 fan controller up and running.
