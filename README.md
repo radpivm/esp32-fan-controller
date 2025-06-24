@@ -51,7 +51,9 @@ lib_deps =
 - [ ] ESPHome version with YAML config
 - [ ] Case design for 3D printing
 
+---
 
+## how to build it
 
 <details> <summary>📋 Click to Expand Markdown Snippet</summary>
 
